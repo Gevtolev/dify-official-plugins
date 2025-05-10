@@ -1,0 +1,7 @@
+dify_plugin>=0.1.0,<0.2.0
+pandas
+chardet
+docx
+openpyxl
+bs4
+xlrd
